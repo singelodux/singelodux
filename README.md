@@ -45,7 +45,7 @@
      style="max-width: 90%; height: auto; border-radius: 5px; vertical-align: top;" />
     </br>
 
- _Se os cards acima sumiram, relaxa: não fui eu que quebrei, foi o servidor gratuito de terceiros tirando uma soneca 😴 (ele volta sozinho, prometo)._
+ _Se os cards acima sumiram: não fui eu quem quebrou. Volta sozinho, prometo. 😴_
 
    <div style="display: flex; justify-content: center; width: 90%;">
     <!-- Current Streak Stats -->

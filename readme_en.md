@@ -45,7 +45,7 @@
      style="max-width: 90%; height: auto; border-radius: 5px; vertical-align: top;" />
     </br>
 
- _If the cards above vanished, relax: it wasn't me — it's the free third-party server taking a nap 😴 (it comes back on its own, I promise)._
+ _If the cards above vanished: it wasn't me who broke them. Comes back on its own, I promise. 😴_
 
    <div style="display: flex; justify-content: center; width: 90%;">
     <!-- Current Streak Stats -->
