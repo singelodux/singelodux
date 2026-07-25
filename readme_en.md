@@ -44,6 +44,9 @@
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingeloDux&layout=compact&langs_count=8&theme=blue-green&card_width=350" 
      style="max-width: 90%; height: auto; border-radius: 5px; vertical-align: top;" />
     </br>
+
+ _If the cards above vanished, relax: it wasn't me — it's the free third-party server taking a nap 😴 (it comes back on its own, I promise)._
+
    <div style="display: flex; justify-content: center; width: 90%;">
     <!-- Current Streak Stats -->
    <img 
@@ -94,10 +97,12 @@
   <a href="mailto:singelodux@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-ff0000?style=plastic&logo=gmail&logoColor=white" /> 
   </a>
+  <a href="https://txova.co.mz/u/singelodux" target="_blank">
+    <img src="https://img.shields.io/badge/-Txova-1d1d1d?style=plastic&logoColor=white" />
+  </a>
   <a href="https://singelodux.blogspot.com/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Itch.io-1d1d1d?style=plastic&logo=itch.io&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-MAL-00B5D6?style=plastic&logo=myanimelist&logoColor=white" />  
     <img src="https://img.shields.io/badge/-DeviantArt-04B404?style=plastic&logo=deviantart&logoColor=white" />  
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" />  
@@ -108,9 +113,6 @@
   </a>
   <a href="https://getrefract.app" target="_blank">
     <img src="https://img.shields.io/badge/-Refract-333333?style=plastic&logoColor=white" />
-  </a>
-  <a href="https://txova.co.mz/u/singelodux" target="_blank">
-    <img src="https://img.shields.io/badge/-Txova-1d1d1d?style=plastic&logoColor=white" />
   </a>
 </p>
 
